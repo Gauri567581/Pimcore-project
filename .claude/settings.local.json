@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C //wsl.localhost/Ubuntu/home/gauri_chaudhary/cdp-pimcore-prodject/my-project add .)"
+    ]
+  }
+}
