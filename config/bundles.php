@@ -8,5 +8,4 @@ return [
     Pimcore\Bundle\StudioUiBundle\PimcoreStudioUiBundle::class => ['all' => true],
     Pimcore\Bundle\QuillBundle\PimcoreQuillBundle::class => ['all' => true],
     Nelmio\CorsBundle\NelmioCorsBundle::class => ['all' => true],
-
 ];
